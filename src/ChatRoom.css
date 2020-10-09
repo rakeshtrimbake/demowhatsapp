@@ -1,0 +1,20 @@
+.chatroom{
+    display: flex;
+    padding:10px;
+    border-bottom:1px solid #f3e6e6;
+    text-decoration:none;
+}
+
+.chatroom:hover{
+    background-color:#ededed;
+    
+}
+
+a{
+    text-decoration:none !important;
+    color:#333131;
+}
+.chatroom__info{
+    margin-left:10px;
+    font-size: small;
+}

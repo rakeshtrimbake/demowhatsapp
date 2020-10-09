@@ -1,0 +1,20 @@
+.messages__info{
+    background-color: white;
+    width:40%;
+    border-radius: 10px;
+    margin:30px;
+    padding:10px;
+}
+
+.messages__receive{
+    margin-left: auto;
+    background-color: #6bf87c;
+   
+}
+.messages__msg{
+    font-size:16px;
+    margin-right: 20px;
+}
+.messages__timestamp {
+    font-size:small;
+}
